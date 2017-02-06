@@ -1,0 +1,4 @@
+Small sample programs to manipulate Redis.
+
+connect.r - connect to Redis and retrieve information about database size.
+execute.r - execute Redis command from R code.
