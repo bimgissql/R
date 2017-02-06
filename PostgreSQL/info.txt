@@ -1,0 +1,3 @@
+small sample programs to manipulate PostgreSQL from R.
+
+connect.r - connect to PostgreSQL database.
